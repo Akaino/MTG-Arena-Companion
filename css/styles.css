@@ -1,7 +1,13 @@
 * {
   background-color: darkgray;
 }
-
+.wrapper {
+  width: 100%;
+  height: 100%;
+}
+.player, .opponent{
+  width: 80% auto;
+}
 .lifecounter{
   width: 75% auto;
   height: 40% auto;
