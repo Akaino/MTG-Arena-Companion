@@ -1,0 +1,14 @@
+* {
+  background-color: darkgray;
+}
+
+.lifecounter{
+  width: 75% auto;
+  height: 40% auto;
+  background-color: red;
+}
+
+.life {
+  text-align: center;
+  color: blue;
+}
