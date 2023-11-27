@@ -1,5 +1,10 @@
+
 * {
-  background-color: darkgray;
+  background-color: rgb(253, 149, 149);
+}
+html {
+  height: 100%;
+  width: 100%
 }
 .wrapper {
   width: 100%;
